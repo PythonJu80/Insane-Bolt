@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Insane-Bolt
 "📚 ECHO Learning Academy: AI-driven educational and development platform for coding excellence." "🎓 Building smarter learning systems with Bolt.new, Cascade, and Windsurf integration." "🌐 ECHO Learning Academy: Merging AI with education and development for next-gen solutions."
-=======
+
 # 🚀 Bolt.new Enhanced Documentation
 
 > 🌟 Next-generation AI task orchestration and resource management system with a focus on GPU resource management, model orchestration, and state preservation.
