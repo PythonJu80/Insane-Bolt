@@ -138,3 +138,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *Version: f6f35bb (Initial project setup with documentation and structure)*
+
+
+This documentation covers the enhanced version of Bolt.new, focusing on multi-machine orchestration, GPU resource management, model hierarchy, and state preservation. The project leverages Docker Compose for isolated environments and integrates cutting-edge tools like Flowise, Hugging Face, and Claude API.
+
+🚀 Quick Start
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-repo/insane-bolt
